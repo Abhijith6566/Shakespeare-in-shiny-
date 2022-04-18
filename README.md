@@ -7,6 +7,11 @@ To create a shiny application that investigated word counts throughout Shakespea
 <li> Create a word frequency chart </li>
 </ol>
 
+# How to re-create the application
+ <li> download shakespear application files </li>
+  <li> open application.R </li>
+  <li> run the application</li>
+  
 # Required Packages
 
 <ol>
