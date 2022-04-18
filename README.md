@@ -14,4 +14,5 @@ To create a shiny application that investigated word counts throughout Shakespea
   <li> ggplot </li>
   <li> shiny </li>
   <li> RColorBrewer </li>
+  <li> tidyverse </li>
   
