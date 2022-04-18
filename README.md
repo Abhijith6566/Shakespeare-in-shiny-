@@ -13,7 +13,7 @@ To create a shiny application that investigated word counts throughout Shakespea
   <li> run the application</li>
   
   
-You can access my app [here] (https://johg5f-abhijith-chigurupati.shinyapps.io/Shiny-assignment/)
+You can access my app [here](https://johg5f-abhijith-chigurupati.shinyapps.io/Shiny-assignment/)
   
 # Required Packages
 
