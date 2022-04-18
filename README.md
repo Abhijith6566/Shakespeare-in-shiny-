@@ -1,4 +1,4 @@
-# Shakespeare-in-shiny-
+# Shakespeare-in-shiny
 
 # Goal
 To create a shiny application that investigated word counts throughout Shakespeare plays
