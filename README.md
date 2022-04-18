@@ -12,6 +12,9 @@ To create a shiny application that investigated word counts throughout Shakespea
   <li> open application.R </li>
   <li> run the application</li>
   
+  
+To view the live app go to [here] (https://johg5f-abhijith-chigurupati.shinyapps.io/Shiny-assignment/)
+  
 # Required Packages
 
 <ol>
